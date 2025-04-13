@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVCpushMe</string>
+    <string name="pushe_me_by_yann">PUSHE ME by YANN</string>
+    <string name="pushe">Push:</string>
+    <string name="push_meBtn">!!Push Me!!</string>
+    <string name="push_me_popup_titre">PUSH ME</string>
+    <string name="remise_zero_pushMe_popup_message"> fois le compteur va etre remis a zero!)</string>
+    <string name="pusher_popup_message">Vous avez atteint le maximum de %d fois.</string>
+    <string name="info_bulle_popup_titre">\?INFO BULLE?</string>
+    <string name="push_max_popup_messsage">Cliquez sur le gros bouton PushMe pour incrementer le nombre de push Jusqu\'au MAX: %d </string>
+    <string name="nbr_push_max">5</string>
+</resources>
